@@ -1,0 +1,7 @@
+{
+  "name": "Share In - AI Powered Document Extraction",
+  "description": "An intelligent system designed to automatically extract and structure data from official documents like ID cards, driving licenses, and vehicle registrations using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
